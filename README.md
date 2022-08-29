@@ -2,22 +2,17 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me on all social media ("khalil elamraoui")
-
 <!---
 khalilelamraoui/khalilelamraoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center"> <b>Welcome</b> 👋</h3>
-<h4 align="center"><b>I'm Khalil,</b></h4>
-<br/>
 A <b>Frontend Developer</b> with high curiosity in <b>WEB development</b> and <b>Front-End</b> technologies with a year of work experience in web apps.
 <hr>
 
 - 🎓 Actually <b>Computer Science Student at University</b>
 - 💻 Worked on <b>front-end</b> using <b>HTML, CSS, Javascript, Bootstrap, Sass.</b>
 - 🏆 <b>I don’t have a dream. I have a goal, and it’s called <strong>reality</strong>.</b>
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=16> A <b>React</b> fan, and I have a lot of projects created with it in my repos, you can check them out!
 - 🌍 I’m currently learning <b>React</b>, <b>Git</b> and <b>C</b>.
 - 💬 Feel <b>free to contact</b> me for more informations.
 <hr>
