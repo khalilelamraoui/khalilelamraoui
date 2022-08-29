@@ -17,8 +17,12 @@ A <b>Frontend Developer</b> with high curiosity in <b>WEB development</b> and <b
 - 💬 Feel <b>free to contact</b> me for more informations.
 <hr>
 
-⚡ <b>Let's connect</b>
+⚡ <b><i>Let's connect</i></b>
 <div>
-    <a target="_blank" href="https://www.linkedin.com/in/khalil-el-amraoui-5834a9216/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-    <a target="_blank" href="mailto:khalilelam16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+    <a target="_blank" href="https://www.linkedin.com/in/khalil-el-amraoui-5834a9216/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+    </a>
+    <a target="_blank" href="mailto:khalilelam16@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
 </div>
