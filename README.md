@@ -79,7 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalilelamraoui&show_icons=true&locale=en&layout=compact" width="375"  alt="khalilelamraoui"/>
 	[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 </a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khalilelamraoui"/></a>
 </div>
 
 <br>
