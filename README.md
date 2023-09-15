@@ -72,13 +72,14 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 	
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+
 <a href="https://github.com/khalilelamraoui/">
 	
   <img src="https://github-readme-stats.vercel.app/api?username=khalilelamraoui&show_icons=true" width="375"  alt="khalilelamraoui"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalilelamraoui&show_icons=true&locale=en&layout=compact" width="375"  alt="khalilelamraoui"/>
-
+	
 </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
 
 <br>
