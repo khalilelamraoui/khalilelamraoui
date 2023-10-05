@@ -32,10 +32,7 @@
 -->
 <img src="https://streak-stats.demolab.com?user=khalilelamraoui&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D"  alt="khalilelamraoui"/>
 <img src="https://github-readme-stats.vercel.app/api?username=khalilelamraoui&show_icons=true&theme=react&rank_icon=github&card_width=450" alt="khalilelamraoui"/>
-	
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=khalilelamraoui&show_icons=true&theme=react&rank_icon=github&card_width=450)](https://github.com/dmmulroy/github-readme-stats)
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilelamraoui&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilelamraoui&show_icons=true&theme=react&card_width=475" alt="khalilelamraoui"/>
 </a>
 
 </div>
