@@ -30,12 +30,12 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api?username=khalilelamraoui&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/khalilelamraoui/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalilelamraoui&show_icons=true&locale=en&layout=compact" width="375"  alt="khalilelamraoui"/>
 -->
-	
+<img src="https://streak-stats.demolab.com?user=khalilelamraoui&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D"  alt="khalilelamraoui"/>	
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=khalilelamraoui&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/dmmulroy/github-readme-stats)
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilelamraoui&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
 </a>
-<img src="https://streak-stats.demolab.com?user=khalilelamraoui&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D"  alt="khalilelamraoui"/>
+
 </div>
 
 <br>
