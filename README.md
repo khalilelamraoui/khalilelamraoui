@@ -27,8 +27,8 @@
 <a href="https://github.com/khalilelamraoui/">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilelamraoui&layout=compact&show_icons=true&theme=react" alt="khalilelamraoui"/>
 	<img src="https://streak-stats.demolab.com?user=khalilelamraoui&theme=react&card_width=450" alt="GitHub Streak" />
-	<!--<img src="https://github-readme-stats.vercel.app/api?username=khalilelamraoui&show_icons=true&theme=react&rank_icon=github&card_width=450" alt="khalilelamraoui"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilelamraoui&show_icons=true&theme=react&card_width=475" alt="khalilelamraoui"/>-->
+	<img src="https://github-readme-stats.vercel.app/api?username=khalilelamraoui&show_icons=true&theme=react&rank_icon=github&card_width=450" alt="khalilelamraoui"/>
+	<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilelamraoui&show_icons=true&theme=react&card_width=475" alt="khalilelamraoui"/>-->
 	
 </a>
 
