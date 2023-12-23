@@ -27,8 +27,8 @@
 <a href="https://github.com/khalilelamraoui/">
 	<div>
 		<div style="display:flex;">
-  			<img src="https://streak-stats.demolab.com?user=khalilelamraoui&theme=react&card_width=450" alt="GitHub Streak" style="text-align: left"/>
-	 		<img src="https://github-readme-stats.vercel.app/api?username=khalilelamraoui&show_icons=true&theme=react&rank_icon=github&card_width=450" alt="khalilelamraoui"/>
+  			<img src="https://streak-stats.demolab.com?user=khalilelamraoui&theme=react&card_width=400" alt="GitHub Streak" style="text-align: left"/>
+	 		<img src="https://github-readme-stats.vercel.app/api?username=khalilelamraoui&show_icons=true&theme=react&rank_icon=github&card_width=300" alt="khalilelamraoui"/>
 		</div>
 		<a href="https://app.daily.dev/elamraouikhalil">
 			<img src="https://api.daily.dev/devcards/7764bdab5c684e4784e3512fb8a46e1b.png?r=2st" width="300" alt="El Amraoui Khalil's Dev Card"/>
